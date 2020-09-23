@@ -38,8 +38,7 @@ class BullsAndCows
         }
     }
 
-    /*************************************************/
-    /*Описаны особенности запуска для игры с ПК (получение рандомного числа в заданном диапазоне)+запуск механники игры*/
+    /*PC game description*/
     static void GameWithPC()
     {
         System.Console.Clear();
@@ -51,8 +50,7 @@ class BullsAndCows
         Console.ReadKey();
     }
 
-    /*************************************************/
-    /*Описаны особенности запуска для игры с другом (ввод числа другом, проверка этого числа)+запуск механники игры*/
+    /*Description of the game with a friend*/
     static int GameWithFriend()
     {
         int magic;
@@ -75,7 +73,7 @@ class BullsAndCows
         }
     }
 
-    /*Функция игровой механники. Подходит как для игры с ПК так и с другом*/
+    /*Game mechanics*/
     static int Game(int magic)
     {
         int score = 1;
