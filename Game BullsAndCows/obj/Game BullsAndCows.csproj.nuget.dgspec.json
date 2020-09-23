@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\source\\repos\\sidorevichby\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj": {}
+    "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\source\\repos\\sidorevichby\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj": {
+    "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\sidorevichby\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
+        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
         "projectName": "Game BullsAndCows",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\sidorevichby\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
+        "projectPath": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\sidorevichby\\itstep_csharp\\Game BullsAndCows\\obj\\",
+        "outputPath": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",

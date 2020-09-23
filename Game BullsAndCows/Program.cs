@@ -12,10 +12,9 @@ class BullsAndCows
             Console.WriteLine("Выбирете нужный пункт:");
             Console.WriteLine("1. Играть с PC");
             Console.WriteLine("2. Играть с другом");
-            Console.WriteLine("3. Выход");
+            Console.WriteLine("3. Выход/n");
             item = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("");
-
+            
             switch (item)
             {
                 case 1:
