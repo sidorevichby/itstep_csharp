@@ -1,0 +1,12 @@
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.exe
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.deps.json
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.runtimeconfig.json
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.dll
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.pdb
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.AssemblyInfo.cs
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.dll
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.pdb
+C:\Users\Denis\source\repos\sidorevichby\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.genruntimeconfig.cache
