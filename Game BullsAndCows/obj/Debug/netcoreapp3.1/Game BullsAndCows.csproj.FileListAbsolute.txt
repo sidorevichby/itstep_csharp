@@ -23,3 +23,16 @@ C:\Users\Denis\source\repos\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp
 C:\Users\Denis\source\repos\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.dll
 C:\Users\Denis\source\repos\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.pdb
 C:\Users\Denis\source\repos\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.exe
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.deps.json
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.dll
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\bin\Debug\netcoreapp3.1\Game BullsAndCows.pdb
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.dll
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.pdb
+C:\Users\Admin\Documents\GitHub\itstep_csharp\Game BullsAndCows\obj\Debug\netcoreapp3.1\Game BullsAndCows.genruntimeconfig.cache
