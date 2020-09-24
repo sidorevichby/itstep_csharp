@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\sidorevichby\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\sidorevichby\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\sidorevichby\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj",
         "projectName": "Homework_3_Range",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\sidorevichby\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Lecture_1\\Homework_3_Range\\Homework_3_Range.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\sidorevichby\\itstep_csharp\\Lecture_1\\Homework_3_Range\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Lecture_1\\Homework_3_Range\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

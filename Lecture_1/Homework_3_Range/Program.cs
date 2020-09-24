@@ -9,6 +9,8 @@ namespace Homework_3_Range
             int firstnumber, secondnumber;
             firstnumber = Convert.ToInt32(Console.ReadLine());
             secondnumber = Convert.ToInt32(Console.ReadLine());
+            if (secondnumber < firstnumber)
+                Console.WriteLine("Error! first number > second number");
             do
             {
                 for (int i = 0; i < firstnumber; i++)
