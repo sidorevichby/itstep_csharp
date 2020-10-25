@@ -25,6 +25,7 @@ namespace ConsoleApp1
                 if (result)
                     warresult++;
                 Console.WriteLine($"First tank win? {result}");
+
             }
             Console.WriteLine();
             if (warresult>=3)
