@@ -12,7 +12,7 @@ class BullsAndCows
             Console.WriteLine("Выбирете нужный пункт:");
             Console.WriteLine("1. Играть с PC");
             Console.WriteLine("2. Играть с другом");
-            Console.WriteLine("3. Выход/n");
+            Console.WriteLine("3. Выход\n");
             item = Convert.ToInt32(Console.ReadLine());
             
             switch (item)
@@ -42,9 +42,8 @@ class BullsAndCows
     {
         System.Console.Clear();
         Console.WriteLine("Угадай трехзначное число которое я загадал ;)");
-        Random rnd = new Random();
-        int magic = rnd.Next(100, 999);
-        //Console.WriteLine(magic);
+        int magic;
+        magic = CreateMagic();
         Game(magic);
         Console.ReadKey();
     }
@@ -59,11 +58,21 @@ class BullsAndCows
             magic = Convert.ToInt32(Console.ReadLine());
             if (magic < 1000 && magic > 99)
             {
-                System.Console.Clear();
-                Console.WriteLine("Угадай трехзначное число которое загадал твой друг :)");
-                Game(magic);
-                return 0;
-
+                int[] magic_arr = new int[3];
+                magic_arr[0] = magic / 100;
+                magic_arr[1] = magic % 100 / 10;
+                magic_arr[2] = magic % 10;
+                if (magic_arr[0] != magic_arr[1] && magic_arr[1] != magic_arr[2] && magic_arr[0] != magic_arr[2])
+                {
+                    System.Console.Clear();
+                    Console.WriteLine("Угадай трехзначное число которое загадал твой друг :)");
+                    Game(magic);
+                    return 0;
+                }
+                else
+                {
+                    Console.WriteLine("Число {0} не подходит. Числа повторяться недолжны. Попробуй еще раз.", magic);
+                }
             }
             else
             {
@@ -72,12 +81,33 @@ class BullsAndCows
         }
     }
 
-    /*Game mechanics*/
-    static int Game(int magic)
+    /*Create magic for PC*/
+
+    static int CreateMagic()
+    {
+        while (true)
+        {
+            
+            Random rnd = new Random();
+            int magic = rnd.Next(100, 999);
+            int[] magic_arr = new int[3];
+            magic_arr[0] = magic / 100;
+            magic_arr[1] = magic % 100 / 10;
+            magic_arr[2] = magic % 10;
+            if (magic_arr[0] != magic_arr[1] && magic_arr[1] != magic_arr[2] && magic_arr[0] != magic_arr[2])
+            {
+                return magic;
+            }
+        }
+    }
+
+/*Game mechanics*/
+static int Game(int magic)
     {
         int score = 1;
-        int[] magic_arr = new int[3];
+        
         int[] magic_user = new int[3];
+        int[] magic_arr = new int[3];
         magic_arr[0] = magic / 100;
         magic_arr[1] = magic % 100 / 10;
         magic_arr[2] = magic % 10;
