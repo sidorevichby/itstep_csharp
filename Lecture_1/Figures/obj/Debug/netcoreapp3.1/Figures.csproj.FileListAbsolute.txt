@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\Denis\source\repos\itstep_csharp\Lecture_1\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
