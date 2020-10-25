@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Denis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
       "projectName": "Game BullsAndCows",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\itstep_csharp\\Game BullsAndCows\\obj\\",
+      "projectPath": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\Game BullsAndCows.csproj",
+      "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Denis\\source\\repos\\itstep_csharp\\Game BullsAndCows\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
